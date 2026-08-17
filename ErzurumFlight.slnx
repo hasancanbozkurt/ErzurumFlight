@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/Tests/">
+    <Project Path="Tests/ErzurumFlight.Tests.csproj" />
+  </Folder>
+  <Project Path="Server/Server.csproj" />
+</Solution>

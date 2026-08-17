@@ -1,0 +1,23 @@
+# .NET
+bin/
+obj/
+*.user
+*.db
+*.db-shm
+*.db-wal
+
+# Visual Studio
+.vs/
+
+# Node / Vite
+node_modules/
+ClientApp/dist/
+npm-debug.log*
+
+# Editör
+.idea/
+*.swp
+
+# İşletim sistemi
+.DS_Store
+Thumbs.db
